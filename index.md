@@ -1,2 +1,6 @@
-# scrapyard
-simple website to list the hardware and objects i have that i don't use much anymore
+welcome to the scrapyard!
+
+here you can see various information about my scrap devices and objects.
+
+to get started, check the categories below:
+* [smartphones](smartphones)
