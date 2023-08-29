@@ -15,17 +15,14 @@ The phone's battery is depleted at the time of writing this, therefore more accu
 
 | Original OS  | Current OS        | System chip                                                                       | GPU        | RAM           |
 |--------------|-------------------|-----------------------------------------------------------------------------------|------------|---------------|
-| MIUI 9.5.6.0 | Around MIUI 11(?) | Qualcomm Snapdragon 625 8953 (14 nm), Octa-core, 2000 MHz, ARM Cortex-A53, 64-bit | Adreno 506 | 4GB(?) LPDDR3 |
-
-Since I am not sure about the exact model, the RAM might only hold 3GB.
+| MIUI 9.5.6.0 | Around MIUI 11(?) | Qualcomm Snapdragon 625 8953 (14 nm), Octa-core, 2000 MHz, ARM Cortex-A53, 64-bit | Adreno 506 | 3GB LPDDR3 |
 
 ### Storage
 
 | Internal | External (potential) | External (current) |
 |----------|----------------------|--------------------|
-| 64GB(?)  | microSDXC ≤ 128GB    | Not Enough Info    |
+| 32GB(?)  | microSDXC ≤ 128GB    | Not Enough Info    |
 
-Since I am not sure about the exact model, the internal storage might only hold 32GB.
 ### Connectivity
 
 | Mobile data           | Bluetooth | Wi-Fi             | VoIP | Dual SIM setup                | Accepted SIM types  | Mobile hotspot & Tethering |
