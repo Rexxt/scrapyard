@@ -15,7 +15,7 @@ The phone's battery is depleted at the time of writing this, therefore more accu
 
 | Original OS  | Current OS        | System chip                                                                       | GPU        | RAM           |
 |--------------|-------------------|-----------------------------------------------------------------------------------|------------|---------------|
-| MIUI 9.5.6.0 | Around MIUI 11(?) | Qualcomm Snapdragon 625 8953 (14 nm), Octa-core, 2000 MHz, ARM Cortex-A53, 64-bit | Adreno 506 | 3GB LPDDR3 |
+| MIUI 9.5.6.0 | Around MIUI 11(?) | Qualcomm Snapdragon 636 (14 nm), Octa-core, 2000 MHz, ARM Cortex-A53, 64-bit | Adreno 506 | 3GB LPDDR3 |
 
 ### Storage
 
