@@ -28,4 +28,9 @@ The phone's battery is depleted at the time of writing this, therefore more accu
 |---|---|---|
 |4000mAh|microUSB|USB 2.0|
 
+#### Display
+|Size|Resolution|Display Ratio|PPI|Screen to body ratio|
+|---|---|---|---|---|
+|5.99in|2160x1080|18:9|403|77.44%|
+
 -- info not complete
