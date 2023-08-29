@@ -4,6 +4,11 @@
 Objective info taken from [PhoneArena](https://www.phonearena.com/phones/Xiaomi-Redmi-Note-5_id10754).
 The phone's battery is depleted at the time of writing this, therefore more accurate info will come later.
 
+![Front of the box](rn5-0.jpg)
+![Rear of the box](rn5-1.jpg)
+![Front of the phone, showing the cracked glass](rn5-2.jpg)
+![Rear of the phone, showing the dual camera and the provided case](rn5-3.jpg)
+![Inside the box, showing SIM insertion tool](rn5-4.jpg)
 ## Metadata
 
 | Acquisition | End of life   | Reasons for EOL                                                                       |

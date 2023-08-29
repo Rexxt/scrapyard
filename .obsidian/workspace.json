@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8bb9cca329c50240",
+        "id": "47f0e2f277a593c6",
         "type": "tabs",
         "children": [
           {
-            "id": "c15a023b80ad8277",
+            "id": "70eca85022e1028e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,13 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c15a023b80ad8277",
+  "active": "70eca85022e1028e",
   "lastOpenFiles": [
-    "smartphones/img",
-    "smartphones/Nouveau dossier",
-    "resources",
-    "Nouveau dossier",
-    "smartphones/index.md",
-    "smartphones/redminote5.md"
+    "smartphones/img/rn5-3.jpg~RF38102450.TMP",
+    "smartphones/img/rn5-3.jpg.0.pdnSave",
+    "smartphones/img/rn5-3.jpg~RF380f094b.TMP",
+    "smartphones/img/rn5-2.jpg~RF380e3f93.TMP",
+    "smartphones/img/rn5-2.jpg.0.pdnSave",
+    "smartphones/img/rn5-1.jpg~RF380bead5.TMP",
+    "smartphones/img/rn5-1.jpg.0.pdnSave",
+    "smartphones/img/rn5-0.jpg",
+    "smartphones/redminote5.md",
+    "smartphones/img/rn5-4.jpg",
+    "smartphones/img/rn5-4.jpg.crdownload",
+    "smartphones/img/rn5-3.jpg",
+    "smartphones/img/rn5-3.jpg.crdownload",
+    "smartphones/img/rn5-2.jpg",
+    "smartphones/img/rn5-2.jpg.crdownload",
+    "smartphones/img/rn5-1.jpg",
+    "smartphones/img/rn5-1.jpg.crdownload",
+    "smartphones/index.md"
   ]
 }
