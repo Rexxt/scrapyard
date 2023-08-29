@@ -31,6 +31,7 @@ Since I am not sure about the exact model, the internal storage might only hold 
 | Mobile data           | Bluetooth | Wi-Fi             | VoIP | Dual SIM setup                | Accepted SIM types  | Mobile hotspot & Tethering |
 |-----------------------|-----------|-------------------|------|-------------------------------|---------------------|----------------------------|
 | 4G (LTE, HSPA, HSUPA) | 4.2       | 802.11 a, b, g, n | Yes  | Either 2 SIMs or 1 SIM + 1 SD | Nano SIM, Micro SIM | Yes                        |
+
 ### Sensors
 
 |Location|Motion|Hall effect|
