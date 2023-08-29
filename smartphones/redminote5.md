@@ -65,8 +65,8 @@ The display is cracked and has been patched up with spare screen protectors.
 
 ### Box inventory
 
-| Power adapter | USB cable            | User guide | SIM insertion tool | Transparent case |
-|---------------|----------------------|------------|--------------------|------------------|
-| Yes           | I forgot where it is | Yes        | Yes                | On phone         |
+| Power adapter | USB cable            | User guide           | SIM insertion tool | Transparent case |
+|---------------|----------------------|----------------------|--------------------|------------------|
+| Yes           | I forgot where it is | I forgot where it is | Yes                | On phone         |
 
 -- info not complete; I will try to list more information if/when I charge the phone.
